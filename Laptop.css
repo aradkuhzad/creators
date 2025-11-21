@@ -40,4 +40,25 @@
         color: rgb(255, 255, 255);
     }
 
+
+    .content-sign-in {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(255, 255, 255);
+        padding: 6px 10px 7px;
+        border-radius: 15px;
+        height: 28px;
+        width: 72px;
+    }
+
+    .text-sign-in {
+        font-size: 15px;
+        font-weight: 500;
+        letter-spacing: -0.15px;
+        line-height: 15px;
+        white-space: nowrap;
+        font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+    }
+
 }
