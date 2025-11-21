@@ -1,3 +1,14 @@
+@font-face {
+    font-family: "GT Walsheim Pro Medium Regular";
+    src: url("https://db.onlinewebfonts.com/t/d4f20dfedfdf197ed0ac52b09bf25551.eot");
+    src: url("https://db.onlinewebfonts.com/t/d4f20dfedfdf197ed0ac52b09bf25551.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/d4f20dfedfdf197ed0ac52b09bf25551.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/d4f20dfedfdf197ed0ac52b09bf25551.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/d4f20dfedfdf197ed0ac52b09bf25551.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/d4f20dfedfdf197ed0ac52b09bf25551.svg#GT Walsheim Pro Medium Regular")format("svg");
+}
+
+
 body {
     background-color: rgb(0, 0, 0);
     overflow-y: scroll;
@@ -117,10 +128,12 @@ body {
 
 
 .section-tw {
+    display: flex;
     position: relative;
-    justify-content: flex-start;
     height: min-content;
     padding: 0 20px 60px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 
@@ -128,8 +141,77 @@ body {
     display: flex;
     flex-direction: column;
     gap: 20px;
+    align-items: center;
     width: 100%;
-    padding: 60px 0 0;
+    padding: 64px 0 0;
+}
+
+.text-bxlarge {
+    display: flex;
+    width: 100%;
+    align-items: center;
+
+}
+
+.text-large {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 184px;
+    font-size: 42px;
+    font-family: "GT Walsheim Pro Medium Regular", sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    letter-spacing: -2.1px;
+    line-height: 46.2px;
 }
 
 
+.content-bxlarge {
+    position: relative;
+    display: flex;
+    left: 1px;
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+
+.content-text-icon-one {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.icon-bxlarge-one {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: flex-start;
+    width: 18px;
+    height: 18px;
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M0 4C0 1.791 1.791 0 4 0h10c2.209 0 4 1.791 4 4v10c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4zm12.5 1v.667c0 1.841-1.492 3.333-3.333 3.333H8.833C6.992 9 5.5 7.508 5.5 5.667V5c0-.552-.448-1-1-1s-1 .448-1 1v.615C3.5 8.589 5.911 11 8.885 11h.23C12.089 11 14.5 8.589 14.5 5.615V5c0-.552-.448-1-1-1s-1 .448-1 1z'/%3E%3C/svg%3E") 
+        no-repeat center / contain;
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M0 4C0 1.791 1.791 0 4 0h10c2.209 0 4 1.791 4 4v10c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4zm12.5 1v.667c0 1.841-1.492 3.333-3.333 3.333H8.833C6.992 9 5.5 7.508 5.5 5.667V5c0-.552-.448-1-1-1s-1 .448-1 1v.615C3.5 8.589 5.911 11 8.885 11h.23C12.089 11 14.5 8.589 14.5 5.615V5c0-.552-.448-1-1-1s-1 .448-1 1z'/%3E%3C/svg%3E") 
+        no-repeat center / contain;
+}
+
+.text-bxlarge-one {
+    display: inline-block;
+    position: relative;
+    top: -3px;
+    max-width: 260px;
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: -0.01px;
+    line-height: 23.4px;
+}
+
+.text-bxlarge-one a {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
