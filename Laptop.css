@@ -4,6 +4,10 @@
         justify-content: center;
     }
 
+    .content-menu-sign-log {
+        display: flex;
+    }
+
     .content-max {
         display: flex;
         width: 100%;
@@ -61,4 +65,24 @@
         font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
     }
 
+    .content-menu {
+        display: flex;
+        flex-direction: row;
+        background-color: rebeccapurple;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .text-nav-item-Product {
+        font-family: "Inter", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: -0.15px;
+        line-height: 15px;
+        opacity: 0.6;
+    }
+
+        letter-spacing: -0.15px;
+        line-height: 15px;
 }
