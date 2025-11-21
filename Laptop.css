@@ -150,7 +150,7 @@
     }
 
     .section-tw {
-        height: 560px;
+        height: 95vh;
         align-items: center;
         justify-content: center;
     }
@@ -164,8 +164,11 @@
 
     .content-section-tw {
         display: flex;
+        position: relative;
         align-items: center;
         width: 100%;
+        top: 9px;
+        height: 560px;
         max-width: 1200px;
     }
 
