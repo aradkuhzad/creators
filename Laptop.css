@@ -66,11 +66,13 @@
     }
 
     .content-menu {
+        position: relative;
         display: flex;
         flex-direction: row;
-        background-color: rebeccapurple;
         align-items: center;
         gap: 20px;
+        left: 54px;
+        height: 30px;
     }
 
     .text-nav-item-Product {
@@ -141,6 +143,30 @@
         letter-spacing: -0.15px;
         line-height: 15px;
         opacity: 0.6;
+    }
+
+    .content-up-section-tw {
+        padding: 0;
+    }
+
+    .section-tw {
+        height: 560px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .text-large {
+        width: 374px;
+        font-size: 85px;
+        letter-spacing: -4.25px;
+        line-height: 80.75px;
+    }
+
+    .content-section-tw {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        max-width: 1200px;
     }
 
 }
