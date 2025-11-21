@@ -83,6 +83,64 @@
         opacity: 0.6;
     }
 
+    .text-nav-item-Teams {
+        font-family: "Inter", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        font-weight: 400;
         letter-spacing: -0.15px;
         line-height: 15px;
+        opacity: 0.6;
+    }
+
+    .text-nav-item-Resources {
+        font-family: "Inter", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: -0.15px;
+        line-height: 15px;
+        opacity: 0.6;
+    }
+
+    .text-nav-item-Community {
+        font-family: "Inter", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: -0.15px;
+        line-height: 15px;
+        opacity: 0.6;
+    }
+
+    .text-nav-item-Support {
+        font-family: "Inter", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: -0.15px;
+        line-height: 15px;
+        opacity: 0.6;
+    }
+
+    .nav-item-Enterprise {
+        font-family: "Inter", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: -0.15px;
+        line-height: 15px;
+        opacity: 0.6;
+    }
+
+    .nav-item-Pricing {
+        font-family: "Inter", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: -0.15px;
+        line-height: 15px;
+        opacity: 0.6;
+    }
+
 }
