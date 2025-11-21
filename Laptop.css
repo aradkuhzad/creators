@@ -1,0 +1,37 @@
+@media (min-width: 1200px) {
+    .content-bx-nv {
+        padding: 0px 20px;
+    }
+
+    .menu-toggle {
+        display: none;
+    }
+
+    .sign-log {
+        display: flex;
+        background-color: red;
+        width: 125px;
+        height: 30px;
+    }
+
+    .content-sign-log {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 10px;
+    }
+
+    .log-in-button {}
+
+    .text-log-in {
+        font-family: "Inter", sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: -0.15px;
+        line-height: 15px;
+        opacity: 0.6;
+        color: rgb(255, 255, 255);
+    }
+
+}
