@@ -13,7 +13,7 @@ body {
 
 
 .nav-all {
-    position: fixed;
+    position: relative;
     width: 100%;
     height: 64px;
     display: flex;
@@ -113,6 +113,23 @@ body {
 
 .content-menu {
     display: none;
+}
+
+
+.section-tw {
+    position: relative;
+    justify-content: flex-start;
+    height: min-content;
+    padding: 0 20px 60px;
+}
+
+
+.content-up-section-tw {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    padding: 60px 0 0;
 }
 
 
