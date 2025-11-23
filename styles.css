@@ -171,7 +171,6 @@ body {
 .content-bxlarge {
     position: relative;
     display: flex;
-    left: 1px;
     width: 100%;
     flex-direction: column;
     justify-content: flex-start;
@@ -182,6 +181,7 @@ body {
 .content-text-icon-one {
     display: flex;
     gap: 10px;
+    align-items: flex-start;
 }
 
 .icon-bxlarge-one {
@@ -200,7 +200,6 @@ body {
 .text-bxlarge-one {
     display: inline-block;
     position: relative;
-    top: -3px;
     max-width: 260px;
     font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
     color: rgba(255, 255, 255, 0.6);
@@ -224,7 +223,6 @@ body {
 .icon-bxlarge-tw {
     display: flex;
     position: relative;
-    top: 1px;
     background-color: #fff;
     align-items: center;
     justify-content: flex-start;
