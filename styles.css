@@ -302,7 +302,6 @@ body {
     display: inline-block;
     position: relative;
     max-width: 244px;
-    top: -3px;
     font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
     color: rgba(255, 255, 255, 0.6);
     font-size: 17px;
