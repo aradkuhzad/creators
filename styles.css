@@ -270,6 +270,7 @@ body {
     justify-content: flex-start;
     width: 18px;
     height: 18px;
+    top: -1px;
     -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' display='block' role='presentation' viewBox='0 0 20 20'%3E%3Cpath d='M2.392 5.392L1.392 6.392C-0.541 8.325-0.541 11.459 1.392 13.392C3.325 15.325 6.459 15.325 8.392 13.392L9.392 12.392M12.392 9.392L13.392 8.392C15.325 6.459 15.325 3.325 13.392 1.392C11.459 -0.541 8.325 -0.541 6.392 1.392L5.392 2.392M5.892 8.892L8.892 5.892' fill='transparent' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' transform='translate(2.608 2.608)'/%3E%3C/svg%3E")
     no-repeat center / contain;
     mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' display='block' role='presentation' viewBox='0 0 20 20'%3E%3Cpath d='M2.392 5.392L1.392 6.392C-0.541 8.325-0.541 11.459 1.392 13.392C3.325 15.325 6.459 15.325 8.392 13.392L9.392 12.392M12.392 9.392L13.392 8.392C15.325 6.459 15.325 3.325 13.392 1.392C11.459 -0.541 8.325 -0.541 6.392 1.392L5.392 2.392M5.892 8.892L8.892 5.892' fill='transparent' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' transform='translate(2.608 2.608)'/%3E%3C/svg%3E")
@@ -279,10 +280,11 @@ body {
 .text-bxlarge-thr {
     display: inline-block;
     position: relative;
-    max-width: 244px;
+    max-width: 234px;
     font-family: "inter Variable Placeholder", sans-serif;
     color: rgba(255, 255, 255, 0.6);
     font-size: 18px;
+    top: -3px;
     font-weight: 500;
     letter-spacing: -0.01px;
     line-height: 23.4px;
