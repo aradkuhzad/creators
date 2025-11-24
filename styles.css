@@ -8,6 +8,11 @@
     url("https://db.onlinewebfonts.com/t/d4f20dfedfdf197ed0ac52b09bf25551.svg#GT Walsheim Pro Medium Regular")format("svg");
 }
 
+@font-face {
+    font-family: "inter Variable Placeholder", sans-serif;
+    src: url("font/6kEeNyQwxT59TY7SpLEnehG2fc.woff2");
+}
+
 
 body {
     background-color: rgb(0, 0, 0);
