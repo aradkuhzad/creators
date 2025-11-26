@@ -1,0 +1,199 @@
+@media (min-width: 1200px) {
+.content-bx-nv {
+    padding: 0px 20px;
+    justify-content: center;
+}
+
+.content-menu-sign-log {
+    display: flex;
+}
+
+.content-max {
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-toggle {
+    display: none;
+}
+
+.sign-log {
+    display: flex;
+}
+
+.content-sign-log {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+    height: 30px;
+}
+
+
+.text-log-in {
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    opacity: 0.6;
+    color: rgb(255, 255, 255);
+}
+
+
+.content-sign-in {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    padding: 6px 10px 7px;
+    border-radius: 15px;
+    height: 28px;
+    width: 72px;
+}
+
+.text-sign-in {
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    white-space: nowrap;
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+}
+
+.content-menu {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    left: 54px;
+    height: 30px;
+}
+
+.text-nav-item-Product {
+    font-family: "Inter", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.text-nav-item-Product:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.text-nav-item-Teams {
+    font-family: "Inter", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.text-nav-item-Teams:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.text-nav-item-Resources {
+    font-family: "Inter", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.text-nav-item-Resources:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.text-nav-item-Community {
+    font-family: "Inter", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.text-nav-item-Community:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.text-nav-item-Support {
+    font-family: "Inter", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.text-nav-item-Support:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.nav-item-Enterprise {
+    font-family: "Inter", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.nav-item-Enterprise:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.nav-item-Pricing {
+    font-family: "Inter", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 15px;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.nav-item-Pricing a {
+    color: inherit;          
+    text-decoration: none; 
+}
+
+
+
+.content-up-section-tw {
+    position: relative;
+    top: -1px;
+    padding: 0;
+    gap: 17px;
+}
+
+}
