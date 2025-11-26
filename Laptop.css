@@ -131,6 +131,12 @@
         letter-spacing: -0.15px;
         line-height: 15px;
         opacity: 0.6;
+        cursor: pointer;
+    }
+
+    .text-nav-item-Community:hover {
+        opacity: 1;
+        transition: 0.3s;
     }
 
     .text-nav-item-Support {
@@ -141,6 +147,12 @@
         letter-spacing: -0.15px;
         line-height: 15px;
         opacity: 0.6;
+        cursor: pointer;
+    }
+
+    .text-nav-item-Support:hover {
+        opacity: 1;
+        transition: 0.3s;
     }
 
     .nav-item-Enterprise {
@@ -151,6 +163,12 @@
         letter-spacing: -0.15px;
         line-height: 15px;
         opacity: 0.6;
+        cursor: pointer;
+    }
+
+    .nav-item-Enterprise:hover {
+        opacity: 1;
+        transition: 0.3s;
     }
 
     .nav-item-Pricing {
