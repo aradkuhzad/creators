@@ -238,9 +238,23 @@
         top: 5px;
     }
 
+    .text-bxlarge-thr {
+        top: 1px;
+    }
+
+    .icon-bxlarge-thr {
+        top: 2px;
+    }
 
     .icon-bxlarge-f {
-        top: -2px;
+        top: 3px;
+    }
+    .text-bxlarge-f {
+        top: 0px;
+    }
+
+    .content-tw-button {
+        top: 0;
     }
 
 
