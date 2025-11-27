@@ -329,7 +329,12 @@ body {
 
 .content-tw-button {
     display: flex;
+    position: relative;
+    top: -2px;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
+    gap: 10px;
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
 }
+
