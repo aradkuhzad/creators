@@ -42,6 +42,13 @@ body {
     align-items: center;
 }
 
+.content-section-tw {
+    display: flex;
+    gap: 86px;
+    flex-direction: column;
+    width: 100%;
+}
+
 .content-bx-nv {
     display: flex;
     padding: 0px 0px 0px 20px;
