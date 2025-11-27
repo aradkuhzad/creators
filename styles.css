@@ -353,3 +353,21 @@ body {
     letter-spacing: -0.3px;
     line-height: 15px;
 }
+
+
+.content-button-black {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 14px;
+    border-radius: 100px;
+    background-color: rgb(38, 38, 38);
+}
+
+.text-button-white {
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: -0.3px;
+    line-height: 15px;
+    color: rgb(255, 255, 255);
+}
