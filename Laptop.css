@@ -227,8 +227,17 @@
     }
 
     .icon-bxlarge-one {
-        top: -1px;
+        top: 4px;
     }
+
+    .text-bxlarge-tw {
+        top: 0;
+    }
+
+    .icon-bxlarge-tw {
+        top: 5px;
+    }
+
 
     .icon-bxlarge-f {
         top: -2px;
