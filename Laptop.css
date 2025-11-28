@@ -76,6 +76,7 @@
         font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
     }
 
+
     .content-menu {
         position: relative;
         display: flex;
@@ -95,11 +96,11 @@
         line-height: 15px;
         opacity: 0.6;
         cursor: pointer;
+        transition: 0.3s;
     }
 
     .text-nav-item-Product:hover {
         opacity: 1;
-        transition: 0.3s;
     }
 
     .text-nav-item-Teams {
@@ -111,11 +112,11 @@
         line-height: 15px;
         opacity: 0.6;
         cursor: pointer;
+        transition: 0.3s;
     }
 
     .text-nav-item-Teams:hover {
         opacity: 1;
-        transition: 0.3s;
     }
 
     .text-nav-item-Resources {
