@@ -1,4 +1,8 @@
 @media (min-width: 810px) {
+    .section-tw {
+        padding: 0px 20px;
+    }
+
     .content-up-section-tw {
         padding: 84px 0px 0px;
     }
