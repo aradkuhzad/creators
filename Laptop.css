@@ -267,8 +267,8 @@
     }
 
     .box-video {
-        -webkit-mask: radial-gradient(50% 50% at 48.5%,#000 0% 74%,#0000 100%);
-        mask: radial-gradient(50% 50% at 48.5%,#000 0% 74%,#0000 100%);
+        width: 830px;
+        height: 830px;
     }
 
 
