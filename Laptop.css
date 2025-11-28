@@ -269,6 +269,8 @@
     .box-video {
         width: 830px;
         height: 830px;
+        align-items: center;
+        justify-content: center;
     }
 
 
