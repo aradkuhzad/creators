@@ -124,7 +124,12 @@ body {
     width: 16px;
     height: 24px;
     background-size: 100% 100%;
+    transition: 0.2s;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 24'%3E%3Cpath d='M 16 0 L 16 8 L 8 8 L 0 0 Z M 0 8 L 8 8 L 16 16 L 8 16 L 8 24 L 0 16 Z' fill='white'/%3E%3C/svg%3E");
+}
+
+.icon-logo:hover {
+    opacity: 0.7;
 }
 
 .text-icon {
