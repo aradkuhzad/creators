@@ -112,11 +112,11 @@
     line-height: 15px;
     opacity: 0.6;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .text-nav-item-Teams:hover {
     opacity: 1;
-    transition: 0.3s;
 }
 
 .text-nav-item-Resources {
@@ -128,11 +128,11 @@
     line-height: 15px;
     opacity: 0.6;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .text-nav-item-Resources:hover {
     opacity: 1;
-    transition: 0.3s;
 }
 
 .text-nav-item-Community {
@@ -144,11 +144,11 @@
     line-height: 15px;
     opacity: 0.6;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .text-nav-item-Community:hover {
     opacity: 1;
-    transition: 0.3s;
 }
 
 .text-nav-item-Support {
@@ -160,11 +160,11 @@
     line-height: 15px;
     opacity: 0.6;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .text-nav-item-Support:hover {
     opacity: 1;
-    transition: 0.3s;
 }
 
 .nav-item-Enterprise {
