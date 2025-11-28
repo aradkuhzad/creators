@@ -252,6 +252,7 @@
     }
     .text-bxlarge-f {
         top: 0px;
+        white-space: nowrap;
     }
 
     .content-tw-button {
