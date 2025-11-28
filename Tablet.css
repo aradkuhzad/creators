@@ -60,5 +60,9 @@
     height: auto;
 }
 
+.box-video {
+    width: 810px;
+    height: 810px;
+}
 
 }
