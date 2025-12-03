@@ -135,3 +135,12 @@ body {
 .content-menu {
     display: none;
 }
+
+
+.content-text-buof {
+    display: flex;
+    width: 100%;
+    max-width: 212px;
+    height: 100%;
+    min-height: 25px;
+}
