@@ -160,6 +160,8 @@ body {
     position: relative;
     display: flex;
     width: 100%;
+    padding: 50px 20px;
+    gap: 10px;
     background-color: skyblue;
     align-items: center;
 }
