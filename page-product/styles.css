@@ -149,3 +149,7 @@ body {
     display: none;
 }
 
+.section-tw {
+    display: flex;
+    width: 100%;
+}
