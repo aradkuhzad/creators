@@ -167,3 +167,7 @@ body {
     background-color: skyblue;
     align-items: center;
 }
+
+.content-text-large-Pricing {
+    display: flex;
+}
