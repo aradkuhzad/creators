@@ -154,3 +154,6 @@ body {
     width: 100%;
     padding: 0 20px;
 }
+.content-section-tw {
+    position: relative;
+}
