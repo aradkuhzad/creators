@@ -176,4 +176,8 @@ body {
 }
 
 .text-large-Pricing {
+    position: relative;
+    display: flex;
+    font-family: "GT Walsheim Pro Medium Regular";
+    color: rgb(255, 255, 255);
 }
