@@ -170,4 +170,7 @@ body {
 
 .content-text-large-Pricing {
     display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: black;
 }
