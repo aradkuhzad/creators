@@ -189,3 +189,7 @@ body {
     line-height: 46.2px;
     top: 4px;
 }
+
+.content-text-small-tw {
+    display: flex;
+}
