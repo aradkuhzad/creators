@@ -242,3 +242,7 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+.box-text-basic {
+    position: relative;
+}
