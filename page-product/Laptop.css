@@ -219,6 +219,8 @@
 }
 
 .text-small-tw {
+    font-size: 24px;
+    letter-spacing: -0.85px;
     line-height: 31.2px;
 }
 
