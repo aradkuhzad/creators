@@ -211,4 +211,6 @@ body {
 .th-item {
     display: flex;
     align-items: center;
+    width: 100%;
 }
+
