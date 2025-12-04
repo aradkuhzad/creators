@@ -228,4 +228,6 @@ body {
     background: linear-gradient(#000 0%, #ffffff0f 100%);
     border-radius: 16px;
     width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
 }
