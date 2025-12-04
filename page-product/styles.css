@@ -245,4 +245,5 @@ body {
 
 .box-text-basic {
     position: relative;
+    display: flex;
 }
