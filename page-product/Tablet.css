@@ -1,0 +1,23 @@
+@media (min-width: 810px) {
+    .content-section-tw {
+        padding: 80px 20px;
+        gap: 15px;
+        max-width: 1000px;
+    }
+
+    .text-large-Pricing {
+        font-size: 62px;
+        letter-spacing: -3.72px;
+        line-height: 62px;
+    }
+
+    .content-text-small-tw {
+        width: 315px;
+    }
+
+    .text-small-tw {
+        font-size: 20px;
+        letter-spacing: -0.7px;
+        line-height: 28px;
+    }
+}
