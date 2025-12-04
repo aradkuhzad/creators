@@ -11,6 +11,9 @@
 @font-face {
     font-family: "inter Variable Placeholder", sans-serif;
     src: url("font/6kEeNyQwxT59TY7SpLEnehG2fc.woff2");
+    font-optical-sizing: auto;
+    font-weight: 400;   
+    font-style: normal;
 }
 
 
