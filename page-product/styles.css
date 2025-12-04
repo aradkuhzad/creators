@@ -235,3 +235,7 @@ body {
     background-color: skyblue;
     box-shadow: inset 0 0 0 1px #ffffff1a;
 }
+
+.content-line-one-babu {
+    display: flex;
+}
