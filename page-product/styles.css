@@ -197,3 +197,6 @@ body {
     justify-content: center;
 }
 
+.text-small-tw {
+    display: flex;
+}
