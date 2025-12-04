@@ -223,4 +223,7 @@ body {
 }
 
 .content-item-one {
+    position: relative;
+    display: flex;
+    width: 100%;
 }
