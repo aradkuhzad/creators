@@ -168,7 +168,6 @@ body {
     gap: 10px;
     border-radius: 16px;
     flex-direction: column;
-    background-color: skyblue;
     align-items: center;
 }
 
@@ -176,7 +175,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    background-color: black;
 }
 
 .text-large-Pricing {
