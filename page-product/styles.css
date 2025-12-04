@@ -222,7 +222,7 @@ body {
     gap: 15px;
 }
 
-.content-item-one {
+.content-items-one {
     position: relative;
     display: flex;
     background: linear-gradient(#000 0%, #ffffff0f 100%);
