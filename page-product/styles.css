@@ -249,4 +249,7 @@ body {
 }
 
 .box-text-basic {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter Variable", sans-serif;
 }
