@@ -199,4 +199,7 @@ body {
 
 .text-small-tw {
     display: flex;
+    text-align: center;
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+    font-size: 16px;
 }
