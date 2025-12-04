@@ -202,4 +202,7 @@ body {
     text-align: center;
     font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
     font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.55px;
+    line-height: 20.8px;
 }
