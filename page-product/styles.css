@@ -486,3 +486,26 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.text-line-te {
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: -0.26px;
+    line-height: 13px;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+}
+
+.content-line-ele {
+    display: flex;
+    width: 100%;
+    height: 5px;
+}
+
+.content-line-twel {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
