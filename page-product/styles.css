@@ -658,3 +658,6 @@ body {
     justify-content: center;
     align-items: center;
 }
+.content-items-thr {
+    display: none;
+}
