@@ -277,6 +277,7 @@ body {
 }
 
 .content-button-off-on {
+    display: flex;
     width: 24px;
     height: 14px;
     border-radius: 16px;
