@@ -292,4 +292,10 @@ body {
     width: 10px;
     height: 10px;
     background: linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%) rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 5px 0px, rgb(255, 255, 255) 0px 0px 0px 1px inset;
+}
+
+.content-line-tw-tx {
+    display: flex;
 }
