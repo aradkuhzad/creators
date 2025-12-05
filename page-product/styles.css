@@ -319,3 +319,12 @@ body {
     justify-content: center;
 }
 
+.line--thr {
+    background-color: #ffffff1a;
+    height: 1px;
+    width: 100%;
+    position: relative;
+}
+
+    width: 100%;
+    width: 100%;
