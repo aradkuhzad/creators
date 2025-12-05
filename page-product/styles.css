@@ -565,3 +565,70 @@ body {
 .text-line-tenlinw span {
     color: rgba(255, 255, 255, 0.4);
 }
+
+.icon-line-sid {
+    position: relative;
+    display: flex;
+    width: 14px;
+    height: 14px;
+    background-color: #ffffff;
+    -webkit-mask: 
+    url("data:image/svg+xml,%3Csvg%20display%3D%22block%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http://www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M%207%200%20C%209.546%200%2011.775%201.36%2013%203.392%20L%2013%201%20C%2013%200.448%2013.448%200%2014%200%20C%2014.552%200%2015%200.448%2015%201%20L%2015%207%20L%209%207%20C%208.448%207%208%206.552%208%206%20C%208%205.448%208.448%205%209%205%20L%2011.584%205%20C%2010.812%203.234%209.05%202%207%202%20C%204.239%202%202%204.239%202%207%20C%202%209.761%204.239%2012%207%2012%20C%208.5%2012%209.846%2011.339%2010.763%2010.293%20L%2010.779%2010.307%20C%2010.961%2010.118%2011.217%2010%2011.5%2010%20C%2012.052%2010%2012.5%2010.448%2012.5%2011%20C%2012.5%2011.334%2012.336%2011.63%2012.084%2011.812%20C%2010.808%2013.159%209.002%2014%207%2014%20C%203.134%2014%200%2010.866%200%207%20C%200%203.134%203.134%200%207%200%20Z%22%20fill%3D%22white%22%20height%3D%2214px%22%20transform%3D%22translate(3%203)%22%20width%3D%2215px%22/%3E%3C/svg%3E") 
+    alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
+    var(--framer-icon-mask, none);
+    mask: 
+    url("data:image/svg+xml,%3Csvg%20display%3D%22block%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http://www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M%207%200%20C%209.546%200%2011.775%201.36%2013%203.392%20L%2013%201%20C%2013%200.448%2013.448%200%2014%200%20C%2014.552%200%2015%200.448%2015%201%20L%2015%207%20L%209%207%20C%208.448%207%208%206.552%208%206%20C%208%205.448%208.448%205%209%205%20L%2011.584%205%20C%2010.812%203.234%209.05%202%207%202%20C%204.239%202%202%204.239%202%207%20C%202%209.761%204.239%2012%207%2012%20C%208.5%2012%209.846%2011.339%2010.763%2010.293%20L%2010.779%2010.307%20C%2010.961%2010.118%2011.217%2010%2011.5%2010%20C%2012.052%2010%2012.5%2010.448%2012.5%2011%20C%2012.5%2011.334%2012.336%2011.63%2012.084%2011.812%20C%2010.808%2013.159%209.002%2014%207%2014%20C%203.134%2014%200%2010.866%200%207%20C%200%203.134%203.134%200%207%200%20Z%22%20fill%3D%22white%22%20height%3D%2214px%22%20transform%3D%22translate(3%203)%22%20width%3D%2215px%22/%3E%3C/svg%3E") 
+    alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
+    var(--framer-icon-mask, none);
+}
+
+.icon-line-sed {
+    position: relative;
+    display: flex;
+    width: 14px;
+    height: 14px;
+    background-color: #ffffff;
+    -webkit-mask: 
+    url("data:image/svg+xml,%3Csvg%20display%3D%22block%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http://www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M%204%200%20C%206.209%200%208%201.791%208%204%20C%208%206.209%206.209%208%204%208%20C%201.791%208%200%206.209%200%204%20C%200%201.791%201.791%200%204%200%20Z%22%20fill%3D%22white%22%20height%3D%228px%22%20transform%3D%22translate(6%202)%22%20width%3D%228px%22/%3E%3Cpath%20d%3D%22M%204%200%20C%206.209%200%208%201.791%208%204%20C%208%206.209%206.209%208%204%208%20C%201.791%208%200%206.209%200%204%20C%200%201.791%201.791%200%204%200%20Z%22%20fill%3D%22white%22%20height%3D%228px%22%20transform%3D%22translate(1.5%2010)%22%20width%3D%228px%22/%3E%3Cpath%20d%3D%22M%204%200%20C%206.209%200%208%201.791%208%204%20C%208%206.209%206.209%208%204%208%20C%201.791%208%200%206.209%200%204%20C%200%201.791%201.791%200%204%200%20Z%22%20fill%3D%22white%22%20height%3D%228px%22%20transform%3D%22translate(10.5%2010)%22%20width%3D%228px%22/%3E%3C/svg%3E") 
+    alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
+    var(--framer-icon-mask, none);
+    mask: 
+    url("data:image/svg+xml,%3Csvg%20display%3D%22block%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http://www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M%204%200%20C%206.209%200%208%201.791%208%204%20C%208%206.209%206.209%208%204%208%20C%201.791%208%200%206.209%200%204%20C%200%201.791%201.791%200%204%200%20Z%22%20fill%3D%22white%22%20height%3D%228px%22%20transform%3D%22translate(6%202)%22%20width%3D%228px%22/%3E%3Cpath%20d%3D%22M%204%200%20C%206.209%200%208%201.791%208%204%20C%208%206.209%206.209%208%204%208%20C%201.791%208%200%206.209%200%204%20C%200%201.791%201.791%200%204%200%20Z%22%20fill%3D%22white%22%20height%3D%228px%22%20transform%3D%22translate(1.5%2010)%22%20width%3D%228px%22/%3E%3Cpath%20d%3D%22M%204%200%20C%206.209%200%208%201.791%208%204%20C%208%206.209%206.209%208%204%208%20C%201.791%208%200%206.209%200%204%20C%200%201.791%201.791%200%204%200%20Z%22%20fill%3D%22white%22%20height%3D%228px%22%20transform%3D%22translate(10.5%2010)%22%20width%3D%228px%22/%3E%3C/svg%3E") 
+    alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
+    var(--framer-icon-mask, none);
+  
+}
+
+.icon-line-eid {
+    position: relative;
+    display: flex;
+    width: 14px;
+    height: 14px;
+    background-color: #ffffff;
+    -webkit-mask:
+    url("data:image/svg+xml,%3Csvg%20display%3D%22block%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http://www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M%208%200%20C%2012.418%200%2016%201.567%2016%203.5%20C%2016%205.433%2012.418%207%208%207%20C%203.582%207%200%205.433%200%203.5%20C%200%201.567%203.582%200%208%200%20Z%22%20fill%3D%22white%22%20height%3D%227px%22%20transform%3D%22translate(2%201)%22%20width%3D%2216px%22/%3E%3Cg%20opacity%3D%220.5%22%3E%3Cpath%20d%3D%22M%2016%203%20C%2016%204.933%2012.418%206.5%208%206.5%20C%203.582%206.5%200%204.933%200%203%20L%200%200%20C%200%201.933%203.582%203.5%208%203.5%20C%2012.418%203.5%2016%201.933%2016%200%20Z%22%20fill%3D%22white%22%20height%3D%226.5px%22%20transform%3D%22translate(2%2011.5)%22%20width%3D%2216px%22/%3E%3C/g%3E%3Cpath%20d%3D%22M%2016%203%20C%2016%204.933%2012.418%206.5%208%206.5%20C%203.582%206.5%200%204.933%200%203%20L%200%200%20C%200%201.933%203.582%203.5%208%203.5%20C%2012.418%203.5%2016%201.933%2016%200%20Z%22%20fill%3D%22white%22%20height%3D%226.5px%22%20transform%3D%22translate(2%206.5)%22%20width%3D%2216px%22/%3E%3C/svg%3E")
+    alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
+    var(--framer-icon-mask, none);
+    mask:
+    url("data:image/svg+xml,%3Csvg%20display%3D%22block%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http://www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M%208%200%20C%2012.418%200%2016%201.567%2016%203.5%20C%2016%205.433%2012.418%207%208%207%20C%203.582%207%200%205.433%200%203.5%20C%200%201.567%203.582%200%208%200%20Z%22%20fill%3D%22white%22%20height%3D%227px%22%20transform%3D%22translate(2%201)%22%20width%3D%2216px%22/%3E%3Cg%20opacity%3D%220.5%22%3E%3Cpath%20d%3D%22M%2016%203%20C%2016%204.933%2012.418%206.5%208%206.5%20C%203.582%206.5%200%204.933%200%203%20L%200%200%20C%200%201.933%203.582%203.5%208%203.5%20C%2012.418%203.5%2016%201.933%2016%200%20Z%22%20fill%3D%22white%22%20height%3D%226.5px%22%20transform%3D%22translate(2%2011.5)%22%20width%3D%2216px%22/%3E%3C/g%3E%3Cpath%20d%3D%22M%2016%203%20C%2016%204.933%2012.418%206.5%208%206.5%20C%203.582%206.5%200%204.933%200%203%20L%200%200%20C%200%201.933%203.582%203.5%208%203.5%20C%2012.418%203.5%2016%201.933%2016%200%20Z%22%20fill%3D%22white%22%20height%3D%226.5px%22%20transform%3D%22translate(2%206.5)%22%20width%3D%2216px%22/%3E%3C/svg%3E")
+    alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
+    var(--framer-icon-mask, none);
+  
+}
+
+.icon-line-nid {
+    position: relative;
+    display: flex;
+    width: 14px;
+    height: 14px;
+    background-color: #ffffff;
+    -webkit-mask: 
+    url("data:image/svg+xml,<svg display='block' role='presentation' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'><path d='M 0 7 C 0 6.448 0.448 6 1 6 L 10 6 L 6.25 2.25 C 5.836 1.836 5.836 1.164 6.25 0.75 L 6.25 0.75 C 6.664 0.336 7.336 0.336 7.75 0.75 L 13.646 6.646 C 13.842 6.842 13.842 7.158 13.646 7.354 L 7.75 13.25 C 7.336 13.664 6.664 13.664 6.25 13.25 L 6.25 13.25 C 5.836 12.836 5.836 12.164 6.25 11.75 L 10 8 L 1 8 C 0.448 8 0 7.552 0 7 Z' fill='var(--19qepfv, var(--token-26e3cb56-8447-4a64-9b7d-37f16a9909d4, rgb(255, 255, 255)))' height='14px' id='lHVUqP2Ta' transform='translate(3 3) rotate(-45 7 7)' width='14px'/></svg>")
+    alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
+    var(--framer-icon-mask, none);
+    mask: 
+    url("data:image/svg+xml,<svg display='block' role='presentation' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'><path d='M 0 7 C 0 6.448 0.448 6 1 6 L 10 6 L 6.25 2.25 C 5.836 1.836 5.836 1.164 6.25 0.75 L 6.25 0.75 C 6.664 0.336 7.336 0.336 7.75 0.75 L 13.646 6.646 C 13.842 6.842 13.842 7.158 13.646 7.354 L 7.75 13.25 C 7.336 13.664 6.664 13.664 6.25 13.25 L 6.25 13.25 C 5.836 12.836 5.836 12.164 6.25 11.75 L 10 8 L 1 8 C 0.448 8 0 7.552 0 7 Z' fill='var(--19qepfv, var(--token-26e3cb56-8447-4a64-9b7d-37f16a9909d4, rgb(255, 255, 255)))' height='14px' id='lHVUqP2Ta' transform='translate(3 3) rotate(-45 7 7)' width='14px'/></svg>")
+    alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
+    var(--framer-icon-mask, none);
+
+}
