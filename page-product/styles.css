@@ -372,3 +372,26 @@ body {
     width: 100%;
     position: relative;
 }
+
+.content-line-sseeini {
+    position: relative;
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content-line-si,
+.content-line-se,
+.content-line-ei,
+.content-line-ni {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+}
