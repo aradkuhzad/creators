@@ -343,6 +343,12 @@ body {
     line-height: 23.4px;
     color: rgb(255, 255, 255);
 }
+
+.content-text-pmon-line-f {
+    position: relative;
+    display: flex;
+    width: 100%;
+    padding: 3px 0 0;
 }
 
 .text-pmon-line-f {
