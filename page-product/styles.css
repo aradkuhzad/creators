@@ -444,3 +444,27 @@ body {
     no-repeat center / contain;
     
 }
+
+.icon-line-ni {
+    position: relative;
+    display: flex;
+    width: 14px;
+    height: 14px;
+    background-color: #ffffff;
+    -webkit-mask: 
+    url("data:image/svg+xml,%3Csvg%20display%3D%22block%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M%2012.8%2012.8%20L%2016%2016%20M%207.2%200%20C%2011.176%200%2014.4%203.224%2014.4%207.2%20C%2014.4%2011.176%2011.176%2014.4%207.2%2014.4%20C%203.224%2014.4%200%2011.176%200%207.2%20C%200%203.224%203.224%200%207.2%200%20Z%22%20fill%3D%22transparent%22%20stroke-width%3D%222%22%20stroke%3D%22white%22%20stroke-linecap%3D%22round%22%20transform%3D%22translate(2%202)%22/%3E%3C/svg%3E") 
+    alpha no-repeat center / contain,
+    var(--framer-icon-mask, none);
+    mask: 
+    url("data:image/svg+xml,%3Csvg%20display%3D%22block%22%20role%3D%22presentation%22%20viewBox%3D%220%200%2020%2020%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M%2012.8%2012.8%20L%2016%2016%20M%207.2%200%20C%2011.176%200%2014.4%203.224%2014.4%207.2%20C%2014.4%2011.176%2011.176%2014.4%207.2%2014.4%20C%203.224%2014.4%200%2011.176%200%207.2%20C%200%203.224%203.224%200%207.2%200%20Z%22%20fill%3D%22transparent%22%20stroke-width%3D%222%22%20stroke%3D%22white%22%20stroke-linecap%3D%22round%22%20transform%3D%22translate(2%202)%22/%3E%3C/svg%3E") 
+    alpha no-repeat center / contain,
+    var(--framer-icon-mask, none);
+}
+
+.box-content-line-te {
+    display: flex;
+    width: 100%;
+    padding: 15px 0 0;
+    align-items: center;
+    justify-content: center;
+}
