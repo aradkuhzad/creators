@@ -23,7 +23,17 @@
 
     .content-th-items {
         max-width: 1000px;
+        flex-direction: row;
+        justify-content: flex-start;
     }
+
+    .box-content-line-ted {
+        height: 124px;
+        padding: 30px 0 0;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+
     .box-content-line-te {
         height: 183px;
         padding: 30px 0 0;
