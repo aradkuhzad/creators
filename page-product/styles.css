@@ -334,6 +334,16 @@ body {
     gap: 4px;
     font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
 }
+
+.tx10mny-line-f {
+    display: flex;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: -0.01px;
+    line-height: 23.4px;
+    color: rgb(255, 255, 255);
+}
+
     display: flex;
     width: 100%;
     width: 100%;
