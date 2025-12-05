@@ -509,3 +509,28 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.text-line-twel {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 400;
+    letter-spacing: -0.15px;
+    line-height: 19.6px;
+    text-align: center;
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+}
+
+
+
+.content-items-two {
+    position: relative;
+    display: flex;
+    border-radius: 16px;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    padding: 30px;
+    box-shadow: inset 0 0 0 1px #ffffff1a, 0 2px 15px 20px #00040f4d, inset 0 0 60px #0066ff0d, 0 15px 120px #0066ff40;
+    background: radial-gradient(172.389% 104% at 50% 100%, #06f6 0%, #001642bd 57.0756%, #000 100%);
+}
