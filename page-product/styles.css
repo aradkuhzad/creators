@@ -326,5 +326,14 @@ body {
     position: relative;
 }
 
+.content-line-f {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    gap: 4px;
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+}
+    display: flex;
     width: 100%;
     width: 100%;
