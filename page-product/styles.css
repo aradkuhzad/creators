@@ -285,3 +285,11 @@ body {
     background-color: rgb(0, 153, 255);
     justify-content: flex-end;
 }
+
+.button-off-on {
+    position: relative;
+    display: flex;
+    width: 10px;
+    height: 10px;
+    background: linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%) rgb(255, 255, 255);
+}
