@@ -648,3 +648,13 @@ body {
     alpha no-repeat center / auto var(--framer-icon-mask-mode, add),
     var(--framer-icon-mask, none);
 }
+
+.content-line-tedsg {
+    backdrop-filter: blur(0px);
+    background-color: rgb(0, 153, 255);
+    width: 100%;
+    border-radius: 100px;
+    padding: 8px 12px;
+    justify-content: center;
+    align-items: center;
+}
