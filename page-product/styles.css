@@ -311,3 +311,11 @@ body {
     font-family: "Inter Variable", sans-serif;
 }
 
+.content-line-thr {
+    display: flex;
+    width: 100%;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
