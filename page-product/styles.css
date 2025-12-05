@@ -257,3 +257,21 @@ body {
     color: rgb(255, 255, 255);
     font-family: "Inter Variable", sans-serif;
 }
+
+
+.text-smallann {
+    display: flex;
+    font-size: 8px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 10.4px;
+    color: rgba(255, 255, 255, 0.8);
+    font-family: "Inter Variable", "Inter", "Inter Variable Placeholder", sans-serif;
+}
+
+.content-box-twitems-anbu {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-direction: row;
+}
